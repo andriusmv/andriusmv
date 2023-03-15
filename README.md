@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @andriusmv
-- 👀 I’m interested in qgis, blender and threejs (for real estate development)
-- 🌱 I’m currently learning threejs
-- 💞️ I’m looking to collaborate on qgis scripts and addons
 - 📫 How to reach me https://www.linkedin.com/in/andresmorenovasquez/
+- Some web-related projects https://andresmoreno.vercel.app/
 - Some of my work in 3D https://www.artstation.com/pantallaverde
 
 <!---
