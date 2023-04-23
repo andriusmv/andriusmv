@@ -1,4 +1,4 @@
-- 📫 How to reach me https://www.linkedin.com/in/andresmorenovasquez/
+- 📫 How to reach me:
 - Some web-related projects https://andresmoreno.vercel.app/
 - Some of my work in 3D https://www.artstation.com/pantallaverde
 - LinkedIn cringe https://www.linkedin.com/in/andresmorenovasquez/
