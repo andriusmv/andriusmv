@@ -1,8 +1,19 @@
-- 📫 How to reach me:
-- Some web-related projects https://andresmoreno.vercel.app/
-- Some of my work in 3D https://www.artstation.com/pantallaverde
-- LinkedIn (cringe) https://www.linkedin.com/in/andresmorenovasquez/
-- Twitter https://twitter.com/andriusmv
+# ✌️ About Me:
+- Architect and GIS Analyst
+- Esri ArcGIS Pro Associate EAPA2101
+- Mostly focused on AEC/RED sector and digital twins
+
+# 📼 Talks:
+- GeoCharlas EPM summit in 2021 about VR/AR for the geomatics sector: https://youtu.be/WY7K7NAiJT4
+- Vlogging about VR and 3D: https://youtu.be/TPpIiUoC67c
+- Interviews on GIS: https://youtu.be/i7ShXNUHQhI
+
+# 📫 How to reach me:
+- Twitter: https://twitter.com/andriusmv
+- LinkedIn (cringe): https://www.linkedin.com/in/andresmorenovasquez/
+- Email: andresmorenovasquez@outlook.com
+- Portfolio here: https://andresmoreno.vercel.app/
+- Some of my work in 3D: https://www.artstation.com/pantallaverde
 
 <!---
 andriusmv/andriusmv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
