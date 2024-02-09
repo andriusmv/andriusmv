@@ -1,6 +1,6 @@
 # ✌️ About Me:
 - Architect and GIS Analyst
-- Esri ArcGIS Pro Associate EAPA2101
+- Esri ArcGIS Pro Professional EAPP2101
 - Mostly focused on AEC/RED sector and digital twins
 
 # 📼 Talks:
