@@ -9,7 +9,7 @@
 - Interviews on GIS: https://youtu.be/i7ShXNUHQhI
 
 # 📫 How to reach me:
-- Twitter: https://twitter.com/andriusmv
+- Twitter: https://twitter.com/amorenva
 - LinkedIn (cringe): https://www.linkedin.com/in/andresmorenovasquez/
 - Email: andresmorenovasquez@outlook.com
 - Portfolio here: https://andresmoreno.vercel.app/
