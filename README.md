@@ -1,7 +1,9 @@
 # ✌️ About Me:
-- Architect and GIS Analyst
-- Esri ArcGIS Pro Professional EAPP2101
-- Mostly focused on AEC/RED sector and digital twins
+- GIS Specialist with Architecture and Urban Planning background
+- Certified ArcGIS Pro Professional
+- Committed to Global Development & Enterprise Mapping Solutions
+- Drone Pilot
+- JavaScript & Python API for ArcGIS
 
 # 📼 Talks:
 - GeoCharlas EPM summit in 2021 about VR/AR for the geomatics sector: https://youtu.be/WY7K7NAiJT4
