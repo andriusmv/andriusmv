@@ -9,6 +9,7 @@
 - GeoCharlas EPM summit in 2021 about VR/AR for the geomatics sector: https://youtu.be/WY7K7NAiJT4
 - Vlogging about VR and 3D: https://youtu.be/TPpIiUoC67c
 - Interviews on GIS: https://youtu.be/i7ShXNUHQhI
+- GIS goodies: https://www.youtube.com/watch?v=aH3njzv0w8w&list=PLK3bRzYo08Luqv-sJVD--iptIHGEQpw7b
 
 # 📫 How to reach me:
 - Twitter: https://twitter.com/amorenva
